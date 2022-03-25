@@ -37,7 +37,7 @@ field at the start of the record) files. Standard Text files are also supported
 * Cobol2Csv, Csv2Cobol and Cobol2Cobol utilities
 * Same IO routines for all File Types (XML (via StAX parser), CSV and Fixed Field Width) 
 
-For Documentation see [JRecord Documentation](Docs/JRecordIntro.htm)
+For Documentation see [JRecord Documentation](Docs/JRecordIntro.html)
 
 ### Getting started with JRecord Java interface
 The easiest way to access **JRecord** is via **IOBuilders** (using the **JRecordInterface1** class):
